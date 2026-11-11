@@ -17,9 +17,13 @@
       <pubDate>Tue, 20 Mar 2018 14:22:37 -0700</pubDate>
       
       <guid>https://aihudson.github.io/cv/</guid>
-      <description>Experience Postdoctoral scholar, North Carolina State University, 2022 - Present
-Education PhD student, Population Biology Graduate Group, University of California Davis, 2016 – 2022 B.A., Biology, University of Chicago, 2014
-Publications Thermal sensitivity and seasonal change in the gut microbiome of a desert ant, Cephalotes rohweri. McMunn, M. S., Hudson, A. I., Zemenick, A. T., Egerer, M., Bennett, L., Philpott, S. M., Vannette, R. L., (2022), FEMS Microbiol. Ecol.</description>
+      <description>Experience Data Scientist, Vylor, Johnston, IA, 2025 – Present
+Research Geneticist, Global Change and Photosynthesis Research Unit, USDA-ARS, Urbana, IL, 2024 – 2025
+USDA NIFA Postdoctoral Fellow, North Carolina State University, 2024
+Postdoctoral Scholar, North Carolina State University, 2022 – 2024
+Education PhD student, Population Biology Graduate Group, University of California Davis, 2016 – 2022
+Thesis: &amp;ldquo;Constraints to Adaptation in Maize: Environmental Trade-offs and Deleterious Alleles&amp;rdquo;
+B.A., Biology, University of Chicago, 2014</description>
     </item>
     
     <item>
@@ -28,7 +32,8 @@ Publications Thermal sensitivity and seasonal change in the gut microbiome of a 
       <pubDate>Tue, 20 Mar 2018 13:48:37 -0700</pubDate>
       
       <guid>https://aihudson.github.io/about/</guid>
-      <description>I study genotype by environment (GxE) interactions in plants. Genetic variation can cause individuals of the same species to respond in different ways to environmental conditions. These interaction effects are important both for the evolution and ecology of wild species as well as the breeding of crop species. I am interested in questions such as: What is the genetic basis of GxE interactions? What mechanisms cause GxE at the phenotypic level?</description>
+      <description>I research the genetics and evolution of plants.
+I&amp;rsquo;m currently a data scientist at Vylor, where I develop new models and data sources for plant breeding as a member of the Genomic Data Science team. I was previously a postdoc working with Peter Balint-Kurti at North Carolina State University. I completed my PhD in the Population Biology Graduate Group at UC Davis where I worked with Jeffrey Ross-Ibarra.</description>
     </item>
     
   </channel>
